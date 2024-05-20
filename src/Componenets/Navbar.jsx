@@ -7,7 +7,7 @@ const Navbar = () => {
       <nav>
         <nav className="navbar navbar-expand-lg bg-body-tertiary">
           <div className="container-fluid">
-            <h1><span><img src="https://www.guvi.in/web-build/images/guvi-logo.e8ad68fbd8dc0a5fc2f7c4ffd580c54d.png" alt="" style={{width:"100px"}}/></span></h1>
+            <h1>GUVI</h1>
             <button
               className="navbar-toggler"
               type="button"
